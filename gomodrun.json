@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/dustinblackman/gomodrun/releases/download/v0.1.1/gomodrun_0.1.1_windows_386.zip",
+            "bin": [
+                "gomodrun.exe"
+            ],
+            "hash": "4b043c2352246783a3b65dda51393465968b2b0ff763e6378e3e56d650152c04"
+        },
+        "64bit": {
+            "url": "https://github.com/dustinblackman/gomodrun/releases/download/v0.1.1/gomodrun_0.1.1_windows_amd64.zip",
+            "bin": [
+                "gomodrun.exe"
+            ],
+            "hash": "ab63cfe7f849c2d4605fc9c6d365485bf9dbe3654b6d18d2e160cafef6fdde6f"
+        }
+    },
+    "homepage": "https://github.com/dustinblackman/gomodrun",
+    "license": "MIT",
+    "description": "The forgotten go tool that executes and caches binaries included in go.mod files"
+}
