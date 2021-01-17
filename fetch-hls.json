@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/dustinblackman/fetch-hls/releases/download/v0.1.1/fetch-hls_0.1.1_windows_386.zip",
+            "bin": [
+                "fetch-hls.exe"
+            ],
+            "hash": "b318c538b068a93b89869bf5a66bdba067dd077708de68f8b9fecc5e04f76a32"
+        },
+        "64bit": {
+            "url": "https://github.com/dustinblackman/fetch-hls/releases/download/v0.1.1/fetch-hls_0.1.1_windows_amd64.zip",
+            "bin": [
+                "fetch-hls.exe"
+            ],
+            "hash": "decfbfb0549ba0c37bdfb87a96d695e49a381d3b89cafd7d5250c5b7c6beaa5b"
+        }
+    },
+    "homepage": "https://github.com/dustinblackman/fetch-hls",
+    "license": "MIT",
+    "description": "A quick and lazy solution to proxy HLS streams to external players (Chromecast, VLC)."
+}
