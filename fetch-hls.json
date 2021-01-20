@@ -1,19 +1,19 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/dustinblackman/fetch-hls/releases/download/v0.1.4/fetch-hls_0.1.4_windows_386.zip",
+            "url": "https://github.com/dustinblackman/fetch-hls/releases/download/v0.1.5/fetch-hls_0.1.5_windows_386.zip",
             "bin": [
                 "fetch-hls.exe"
             ],
-            "hash": "de58e8d16e465ce90b5c7fa45ff63c42970a80495667bca91e91b18b50ef7a29"
+            "hash": "8cfeb90514f3cbbfd820bf940f72af12f14e7836d8b86a3bef10ae12748a24ee"
         },
         "64bit": {
-            "url": "https://github.com/dustinblackman/fetch-hls/releases/download/v0.1.4/fetch-hls_0.1.4_windows_amd64.zip",
+            "url": "https://github.com/dustinblackman/fetch-hls/releases/download/v0.1.5/fetch-hls_0.1.5_windows_amd64.zip",
             "bin": [
                 "fetch-hls.exe"
             ],
-            "hash": "4abd08b59917c002c441dd921b59b70e20b79bdce083d7eb442ce48980ea002b"
+            "hash": "9cb28a21b57e026f40bf31435c1ead2b6cf92ee07b4279617c246c4264e9390c"
         }
     },
     "homepage": "https://github.com/dustinblackman/fetch-hls",
