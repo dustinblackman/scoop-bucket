@@ -1,19 +1,19 @@
 {
-    "version": "0.4.3",
+    "version": "0.4.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/dustinblackman/gomodrun/releases/download/v0.4.3/gomodrun_0.4.3_windows_386.zip",
+            "url": "https://github.com/dustinblackman/gomodrun/releases/download/v0.4.4/gomodrun_0.4.4_windows_386.zip",
             "bin": [
                 "gomodrun.exe"
             ],
-            "hash": "7c3959fee5e1a465417a2a473bf7a0bb074902449b84b02d7b509969e69a2546"
+            "hash": "12ce58cb29e8eaefebc31addb91d39d95f6050b1139aefa224cc400c25329afb"
         },
         "64bit": {
-            "url": "https://github.com/dustinblackman/gomodrun/releases/download/v0.4.3/gomodrun_0.4.3_windows_amd64.zip",
+            "url": "https://github.com/dustinblackman/gomodrun/releases/download/v0.4.4/gomodrun_0.4.4_windows_amd64.zip",
             "bin": [
                 "gomodrun.exe"
             ],
-            "hash": "086cc14493122f079652e09521139901cdd434ac25dda8ddc5c2a29196f3b021"
+            "hash": "7f94a3024b5e96b8854c84332bb2ef0ef314ec1bcb98cf12d29b1824373bd06a"
         }
     },
     "homepage": "https://github.com/dustinblackman/gomodrun",
