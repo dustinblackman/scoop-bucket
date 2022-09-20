@@ -1,12 +1,12 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dustinblackman/cf-alias/releases/download/v0.1.4/cf-alias_0.1.4_windows_amd64.zip",
+            "url": "https://github.com/dustinblackman/cf-alias/releases/download/v0.1.5/cf-alias_0.1.5_windows_amd64.zip",
             "bin": [
                 "cf-alias.exe"
             ],
-            "hash": "dddac436dbff4f713c9c7b83ad04b46fe1f81e19ac2749355fc9af3f36554cf1"
+            "hash": "fd2f6016d00dd608135c6b3665f0a927c881bf947a806630b74fbf8eee140260"
         }
     },
     "homepage": "https://github.com/dustinblackman/cf-alias",
