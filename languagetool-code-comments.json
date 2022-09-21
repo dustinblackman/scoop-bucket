@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dustinblackman/languagetool-code-comments/releases/download/v0.2.0/languagetool-code-comments_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/dustinblackman/languagetool-code-comments/releases/download/v0.3.0/languagetool-code-comments_0.3.0_windows_amd64.zip",
             "bin": [
                 "languagetool-code-comments.exe"
             ],
-            "hash": "7c439f8a7d3bd61ee864c2960232f1105dd194947eac76d42f477e5ab3a061a1"
+            "hash": "d3bbce539ee220c26dbfea5dee7ba3ac8a48d14a9044fce4f5e5fb3e1e3d5064"
         }
     },
     "homepage": "https://github.com/dustinblackman/languagetool-code-comments",
