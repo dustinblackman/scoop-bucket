@@ -1,19 +1,19 @@
 {
-    "version": "0.7.1",
+    "version": "0.7.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dustinblackman/oatmeal/releases/download/v0.7.1/oatmeal_0.7.1_windows_amd64.zip",
+            "url": "https://github.com/dustinblackman/oatmeal/releases/download/v0.7.2/oatmeal_0.7.2_windows_amd64.zip",
             "bin": [
                 "oatmeal.exe"
             ],
-            "hash": "362e4b00e4fab0ea36d1a434f480cbf5b67818c85a850b58e399218764193f9d"
+            "hash": "e563954cd444136010879a0e624895cc43a35b540606f3e7195a76b529af1f17"
         },
         "arm64": {
-            "url": "https://github.com/dustinblackman/oatmeal/releases/download/v0.7.1/oatmeal_0.7.1_windows_arm64.zip",
+            "url": "https://github.com/dustinblackman/oatmeal/releases/download/v0.7.2/oatmeal_0.7.2_windows_arm64.zip",
             "bin": [
                 "oatmeal.exe"
             ],
-            "hash": "6fb48f71addadb9edf7f1b4f1dff23e15407047e3cb5b7e7eb6a4d1d450e5a60"
+            "hash": "e3571511f77f72f1d9c429416df458c9665e116d56814ef9bf987d9a744ff386"
         }
     },
     "homepage": "https://github.com/dustinblackman/oatmeal",
